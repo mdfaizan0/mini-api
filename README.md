@@ -19,12 +19,12 @@ Supports JSON responses and rate limiting  (100 requests per minute).
 - express-rate-limit
 - Mocha / Chai / Supertest for testing
 
-## Set-Up
+## Installation
 
 1. **Clone the repo**
 
 ```bash
-git clone ""
+git clone https://github.com/mdfaizan0/mini-api.git
 cd mini-api
 ```
 
